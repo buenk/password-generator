@@ -1,0 +1,22 @@
+.gen-button {
+    background: rgb(255,186,41);
+    background: linear-gradient(270deg, rgba(255,186,41,1) 0%, rgba(255,54,244,1) 100%); 
+}
+
+.gen-button:hover {
+    background: rgb(213,155,33);
+    background: linear-gradient(270deg, rgba(213,155,33,1) 0%, rgba(237,46,227,1) 100%); 
+}
+
+background-gradient {
+    background: rgb(6,26,64);
+    background: radial-gradient(circle, rgba(6,26,64,1) 0%, rgba(26,28,166,1) 100%);
+}
+
+.text-gradient {
+    font-size: 18px;
+    background: -webkit-linear-gradient(#E75EE0, #E9A924);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 600;
+}
